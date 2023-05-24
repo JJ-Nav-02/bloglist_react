@@ -1,0 +1,33 @@
+.h2 {
+    color:purple;
+    font-style:italic
+}
+
+
+.error {
+    color: black;
+    background: aquamarine;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.good {
+    color: black;
+    background: aquamarine;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.blogStyle {
+    padding-top: 10px;
+    padding-left: 2px;
+    border: solid;
+    border-width: 1px;
+    margin-bottom: 5px;
+}
